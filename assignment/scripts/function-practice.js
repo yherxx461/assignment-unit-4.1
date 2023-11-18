@@ -83,11 +83,7 @@ console.log('value2 is in array:', find(2, array));
 // ----------------------
 // 8. Function to check if a letter is the first letter in a 
 //    string. Return true if it is, and false otherwise
-function isFirstLetter(letter, string) {
-  // it seems like it's a split element
-
-}
-
+function isFirstLetter(letter, string)
 
 // 9. Function to return the sum of all numbers in an array
 function sumAll(array) {
